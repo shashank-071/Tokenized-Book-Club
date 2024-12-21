@@ -6,6 +6,8 @@ The Tokenized Book Club is a decentralized platform that merges the power of blo
 
 ## Contract Address
 0x5f9667f31a32ce4b1cbe9197bac0e903d8a25e9a
+![image](https://github.com/user-attachments/assets/2685d94f-4c77-4ed8-8a58-d21446a683ee)
+
 
 ## Project Vision
 The vision of the Tokenized Book Club is to create a transparent and decentralized community where book enthusiasts can collectively decide which books to read and discuss. By tokenizing participation and decision-making, the project aims to foster engagement, fairness, and collaboration among readers.
